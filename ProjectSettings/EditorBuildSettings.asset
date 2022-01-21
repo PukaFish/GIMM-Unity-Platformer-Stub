@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/splashScreen.unity
+    guid: 4ab8e10699c173e4db5af763ebbee5da
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 5eefd42ab2092c54997581f1662a68d7
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CutScene_1.unity
+    guid: cfcc56423386e4149a00d66413da9a3f
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CutScene_2.unity
+    guid: a31174bb1e1793543895374b735ebf8d
+  - enabled: 1
+    path: Assets/Scenes/MiniGame_Time.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CutScene_3.unity
+    guid: d1645e064256ad346b277542b3a9505d
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/SCS_1.unity
+    guid: be1e80d8990d9d441878f87686cf731a
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CutScene_4.unity
+    guid: d0b1919d766df554ab2b43104b09ed56
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/SCS_2.unity
+    guid: 6ce2a262952b02a468516950f64808ea
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CutScene_5.unity
+    guid: 65d8665e06cc8514389950f50ac41ef4
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/SCS_3.unity
+    guid: e457132ca2184194986fbe2c9c7005e2
+  - enabled: 1
+    path: Assets/Scenes/Town_Buy.unity
+    guid: a8b08035590c5134ba01e75d3254ed08
+  - enabled: 1
+    path: Assets/Scenes/CSC_Town.unity
+    guid: 2c539d4678d879145b325476623d6071
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CutScene_6.unity
+    guid: 0579522722f6cb545a527c0e2d02ef38
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/SCS_4.unity
+    guid: e8b42355d6a491b45a600306f4221674
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CutScene_7.unity
+    guid: 06b4f7c051d76ca49a4156b98903a7a8
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/SCS_5.unity
+    guid: 034790ce614d63147acb391b75604d75
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CutScene_8.unity
+    guid: 7d35d1c4cda66b947ac9bcbf85c48914
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/SCS_6.unity
+    guid: f07ff45325fdb79468946a9fd0e1941d
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CutScene_9.unity
+    guid: 5bfa0f321d8570145bb857123dcd8a42
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/SCS_7.unity
+    guid: c376e23096077334e822b4350ced260a
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CutScene_10.unity
+    guid: 067a76cdf39b7df458b8ea833ee7c234
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/SCS_8.unity
+    guid: 87d721694c50b9947bfc28c2aff51fb9
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CutScene_11.unity
+    guid: 0d1830c0838510e49bdda5249734f4f8
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/SCS_9.unity
+    guid: 5df49c1f16fc38d428b7a2799d0b52fc
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/SCS_10.unity
+    guid: b1c02eee71e9ed24bbfe42b22d7638f9
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/SCS_11.unity
+    guid: 758a5924805d8cb4abd9fd60432c425d
+  - enabled: 1
+    path: Assets/Scenes/Normal_End.unity
+    guid: 98514ebecee1d584a9fe3afcc1e4a6c8
+  - enabled: 1
+    path: Assets/Scenes/Happy_End.unity
+    guid: 374ead2263d059b4e93f3dcb72ef0438
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: dc87d2bd5f409b149a392fd06699ae0b
+  m_configObjects: {}
