@@ -101,7 +101,7 @@ public class DialogueTrigger : MonoBehaviour
         
         if (coll.gameObject.CompareTag("EM") || coll.gameObject.CompareTag("Yun"))
         {
-            //Debug.Log("Hit");
+            Debug.Log("Hit Shopkeeper");
             TriggerDialouge();
             dialogueCheck = true;
         }
