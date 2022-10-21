@@ -20,7 +20,7 @@ public class Timer : MonoBehaviour
     void Start()
     {
         //Offical Times
-        timer = 90;
+        timer = 45;
         timer2 = 45;
         timer3 = 45;
         seconds = 0;

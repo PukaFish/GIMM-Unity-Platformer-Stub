@@ -13,7 +13,7 @@ public class CoinCollect : MonoBehaviour
         {
             ScoreCounter.coinAmount += 1;
                 
-            if(ScoreCounter.coinAmount <= 5)
+            if(ScoreCounter.coinAmount <= 100)
             {
                 platformManagerScript.NewPlatform();
             }
